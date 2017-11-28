@@ -1,0 +1,12 @@
+# Directories
+/dev
+/var
+/docs
+/tmp
+
+# Files
+/.htaccess
+
+# IDE Files
+.idea/
+.project
